@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fdef
+# key: fdef
+# --
+${1:fname} ${2:ftype}

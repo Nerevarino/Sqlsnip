@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: createdatabase
+# key: createdatabase
+# --
+CREATE DATABASE IF NOT EXISTS ${1:name} CHARACTER SET ${2:charset} COLLATE ${3:collation};

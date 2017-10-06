@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dtb
+# key: dtb
+# --
+DROP TABLE IF EXISTS ${1:tbname};

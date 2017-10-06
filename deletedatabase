@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ddb
+# key: ddb
+# --
+DROP DATABASE IF EXISTS ${1:dbname};

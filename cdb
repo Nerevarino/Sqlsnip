@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: 
+# key: 
+# --
+
+create database $(1:db_name);

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: createtable
+# key: createtable
+# --
+create table ${1:tb_name} if not exist
+(
+  ${3:snippet_deff},
+	${4:snippet_tbrstr}
+);
